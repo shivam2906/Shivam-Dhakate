@@ -6,6 +6,7 @@
 [<img align="left" alt="shivam | Instagram" width="120px" src="https://github.com/shivam2906/Shivam-Dhakate/blob/main/gfg_logo.svg" />][gfg]
 [<img align="left" alt="shivam | Instagram" width="240px" src="https://github.com/shivam2906/Shivam-Dhakate/blob/main/Gmail_logo.svg" />][Gmail]
 <br />
+<br />
 [<img align="left" alt="shivam | Instagram" width="180px" src="https://github.com/shivam2906/Shivam-Dhakate/blob/main/Kaggle_logo_3.svg" />][kaggle]
 
 

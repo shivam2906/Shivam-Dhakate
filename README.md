@@ -7,6 +7,8 @@
 [<img align="left" alt="shivam | Instagram" width="140px" src="https://github.com/shivam2906/Shivam-Dhakate/blob/main/Linkdin_logo.png" />][Gmail]
 
 <br />
+<br />
+
 
 I am Shivam Dhakate. I am from Nagpur, Maharashtra and currently i'm pursuing B.Tech from Shri Ramdeobaba College of Engineering and Management Nagpur. I love to explore and learn about new things.
 ## ⚡ Technologies

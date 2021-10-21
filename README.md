@@ -5,7 +5,7 @@
 [<img align="left" alt="shivam | LinkedIn" width="150px" src="https://github.com/shivam2906/Shivam-Dhakate/blob/main/linkdin_logo.svg" />][linkedin]
 [<img align="left" alt="shivam | Instagram" width="120px" src="https://github.com/shivam2906/Shivam-Dhakate/blob/main/gfg_logo.svg" />][gfg]
 [<img align="left" alt="shivam | Instagram" width="240px" src="https://github.com/shivam2906/Shivam-Dhakate/blob/main/Gmail_logo.svg" />][Gmail]
-[<img align="left" alt="shivam | Instagram" width="180px" src="https://github.com/shivam2906/Shivam-Dhakate/blob/main/kaggle_logo2.svg" />][kaggle]
+[<img align="left" alt="shivam | Instagram" width="180px" src="https://github.com/shivam2906/Shivam-Dhakate/blob/main/kaggle_logo1.svg" />][kaggle]
 
 
 <br />

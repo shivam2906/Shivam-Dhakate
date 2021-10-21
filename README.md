@@ -37,7 +37,7 @@
 
 
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[gfg]: https://instagram.com/codeSTACKr
-[Gmail]: https://youtube.com/codeSTACKr
-[kaggle]: https://youtube.com/codeSTACKr
+[gfg]: https://auth.geeksforgeeks.org/user/dhakatesr/practice/
+[Gmail]: https://
+[kaggle]: https://www.kaggle.com/shivamdhakate99
 

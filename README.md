@@ -2,7 +2,7 @@
 
 <img align='right' src='https://github.com/shivam2906/Shivam-Dhakate/blob/main/Logo.svg' width='200"'>
 
-[![Linkedin Badge]()](https://www.linkedin.com/in/shivam-dhakate-53b8971a8/) 
+[![Linkedin Badge](https://github.com/shivam2906/Shivam-Dhakate/blob/main/Linkdin_logo.png)](https://www.linkedin.com/in/shivam-dhakate-53b8971a8/) 
 [![Medium Badge]()]()
 [![Gmail Badge]()](mailto:shivamdhakate99@gmail.com)
 

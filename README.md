@@ -2,9 +2,9 @@
 
 <img align='right' src='https://github.com/shivam2906/Shivam-Dhakate/blob/main/Logo.svg' width='200"'>
 
-[<img align="left" alt="shivam | LinkedIn" width="140px" src="https://github.com/shivam2906/Shivam-Dhakate/blob/main/Linkdin_logo.png" />][linkedin]
+[<img align="left" alt="shivam | LinkedIn" width="140px" src="https://github.com/shivam2906/Shivam-Dhakate/blob/main/linkdin_logo.svg" />][linkedin]
 [<img align="left" alt="shivam | Instagram" width="140px" src="https://github.com/shivam2906/Shivam-Dhakate/blob/main/gfg_logo.svg" />][GFG]
-[<img align="left" alt="shivam | Instagram" width="140px" src="https://github.com/shivam2906/Shivam-Dhakate/blob/main/Linkdin_logo.png" />][Gmail]
+[<img align="left" alt="shivam | Instagram" width="140px" src="https://github.com/shivam2906/Shivam-Dhakate/blob/main/Gmail_logo.svg" />][Gmail]
 
 <br />
 <br />

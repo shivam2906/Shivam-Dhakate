@@ -42,7 +42,7 @@
 
 
 
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/shivam-dhakate-53b8971a8/
 [gfg]: https://auth.geeksforgeeks.org/user/dhakatesr/practice/
 [Gmail]: https://
 [kaggle]: https://www.kaggle.com/shivamdhakate99
